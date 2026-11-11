@@ -1,0 +1,35 @@
+{
+ "knick": {
+  "zeilen": 216,
+  "in_vormessung_abgebrochen": 11,
+  "neu_gerechnet": 205,
+  "schranke_gleich": 205,
+  "labels_gleich": 205,
+  "runden_gleich": 205,
+  "dominiert_verglichen": 0,
+  "dominiert_gleich": 0,
+  "abweichungen": []
+ },
+ "elementar": {
+  "zeilen": 216,
+  "in_vormessung_abgebrochen": 3,
+  "neu_gerechnet": 213,
+  "schranke_gleich": 213,
+  "labels_gleich": 213,
+  "runden_gleich": 213,
+  "dominiert_verglichen": 0,
+  "dominiert_gleich": 0,
+  "abweichungen": []
+ },
+ "skalierung": {
+  "zeilen": 672,
+  "in_vormessung_abgebrochen": 94,
+  "neu_gerechnet": 362,
+  "schranke_gleich": 362,
+  "labels_gleich": 362,
+  "runden_gleich": 362,
+  "dominiert_verglichen": 362,
+  "dominiert_gleich": 362,
+  "abweichungen": []
+ }
+}
